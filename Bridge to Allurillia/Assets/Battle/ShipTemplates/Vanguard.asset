@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 758a644b0b155114cbb77c8598994c8d, type: 3}
+  m_Name: Vanguard
+  m_EditorClassIdentifier: 
+  id: 4
+  shipName: Vanguard
+  health: 5
+  ability: {fileID: 11400000, guid: dd2b590bc48f4774a905d4318d35c689, type: 2}
+  sprite: {fileID: 21300000, guid: b705ebdd3000cab48ae2bb9c3e754e9e, type: 3}

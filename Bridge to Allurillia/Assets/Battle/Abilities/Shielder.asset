@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 047ae5b694e2c2b4bacfeb22e8282096, type: 3}
+  m_Name: Shielder
+  m_EditorClassIdentifier: 
+  strength: 1
+  frequency: 1
+  laserType: 1
+  rotation: 60
+  laser: {fileID: 5302012835253007252, guid: b18786ae86e080745abf2e9f4808dcd8, type: 3}
